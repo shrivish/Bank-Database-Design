@@ -1,10 +1,13 @@
 # Bank-Database-Design
 
 ### ER Diagram:
-<img src="./images/ER-Diagram.png" width="1024" alt="ER Diagram of Bank database design">
+
+![ER-Diagram](https://github.com/shrivish/Bank-Database-Design/assets/86420582/b9cdb160-ae20-42d8-a9f6-9dffca6d26e1)
 
 ### Design Entities:
-<img src="./images/DesignedEntities.png" width="1024" alt="ER Diagram of Bank database design">
+
+![DesignedEntities](https://github.com/shrivish/Bank-Database-Design/assets/86420582/9c067c6a-b90d-4ee1-bfdf-f115a3a6df94)
+
 
 ### Introduction:
 There are only two types of accounts at this time: Checking and Savings accounts. The provided column list should be separated into appropriate entities (tables) with relationships between these entities defined. The most efficient choices as far as your primary key constraints and foreign key constraints, and picked the appropriate data types for each of the columns.
